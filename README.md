@@ -9,7 +9,7 @@
     <img align="center" alt ="html5" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </div><br/>
 
-### Projects by language  ↴
+### Repositories by language  ↴
 <div><br/>
     <a href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=html&sort=">
         <img align="center" alt ="html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
