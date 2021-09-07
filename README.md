@@ -4,12 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playreset&theme=github_dark&langs_count=10&locale=en&hide_border=true&layout=compact&title_color=fe428e)](https://github.com/playreset)
 
-### Perfis
+### Links
 <div style = "display: inline_block"><br/>
     <img align="center" alt ="html5" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div><br/>
 
-### Linguagens
+### Languages
 <div style = "display: inline_block"><br/>
     <img align="center" alt ="html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt ="css" src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
