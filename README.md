@@ -1,4 +1,4 @@
-### Olá sou o tal do Diego 👋
+### Hi there, I'm that guy you haven't met, yet. 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playreset&show_icons=true&theme=github_dark&title_color=fe428e&icon_color=f8d847&locale=en&hide_border=true&count_private=true)](https://github.com/playreset)
 
