@@ -4,26 +4,26 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playreset&theme=github_dark&langs_count=10&locale=en&hide_border=true&layout=compact&title_color=fe428e)](https://github.com/playreset)
 
-### Social
-<div style = "display: inline_block"><br/>
+### Social  ↴
+<div><br/>
     <img align="center" alt ="html5" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </div><br/>
 
-### Languages
-<div style = "display: inline_block"><br/>
-    <a style = "text-decoration: none" href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=html&sort=">
+### Projects by language  ↴
+<div><br/>
+    <a href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=html&sort=">
         <img align="center" alt ="html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
     </a>
-    <a style = "text-decoration: none" href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=html&sort=">
+    <a href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=html&sort=">
         <img align="center" alt ="css" src ="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
     </a>
-    <a style = "text-decoration: none" href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=javascript&sort=">
+    <a href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=javascript&sort=">
         <img align="center" alt ="javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     </a>
-    <a style = "text-decoration: none" href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=java&sort=">
+    <a href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=java&sort=">
         <img align="center" alt ="java" src ="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
     </a>
-    <a style = "text-decoration: none" href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=python&sort=">
+    <a href="https://github.com/PlayReset?tab=repositories&q=&type=public&language=python&sort=">
         <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
     </a>
 </div><br/>
