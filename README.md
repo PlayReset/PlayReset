@@ -1,11 +1,13 @@
 ### Olá sou o tal do Diego 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playreset&show_icons=true&theme=github_dark&title_color=fe428e&icon_color=f8d847&locale=pt-br&hide_border=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playreset&show_icons=true&theme=github_dark&title_color=fe428e&icon_color=f8d847&locale=pt-br&hide_border=true&count_private=true)](https://github.com/playreset)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playreset&theme=github_dark&langs_count=10&locale=pt-br&hide_border=true&layout=compact&title_color=fe428e)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playreset&theme=github_dark&langs_count=10&locale=pt-br&hide_border=true&layout=compact&title_color=fe428e)](https://github.com/playreset)
 
-### Redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofigmedeiros/)
+### Perfis
+<div style = "display: inline_block"><br/>
+    <img align="center" alt ="html5" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</div><br/>
 
 ### Linguagens
 <div style = "display: inline_block"><br/>
