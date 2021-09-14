@@ -30,6 +30,6 @@
 <details>
   <summary>Credits</summary><br/>
     
-https://glaucocustodio.github.io/2013/03/15/exibir-branch-atual-em-repositorios-git-no-terminal/
+
 [![anuraghazra](https://badgen.net/badge/icon/anuraghazra/anuraghazra?icon=github&label)](https://github.com/anuraghazra/github-readme-stats)
 </details>
